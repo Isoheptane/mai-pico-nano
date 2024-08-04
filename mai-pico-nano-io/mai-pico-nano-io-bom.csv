@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J3,J2";"Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal";2;"Conn_01x04";;;
+2;"J4";"Molex_PicoBlade_53048-1010_1x10_P1.25mm_Horizontal";1;"Conn_01x10";;;
+3;"U3,U4";"SOT-23-5";2;"ME6211C33M5";;;
+4;"R4,R3,R1,R2";"R_0603_1608Metric";4;"2.2K";;;
+5;"C3,C4,C5,C2,C1";"C_0603_1608Metric";5;"1uF";;;
+6;"U1";"RP2040-Zero";1;"RP2040-Zero";;;
+7;"U2";"SOT-23-5";1;"SN74LV1T34DBV";;;
+8;"J7,J8,J6,J5";"Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal";4;"Conn_01x02";;;
+9;"J1";"Molex_PicoBlade_53048-0310_1x03_P1.25mm_Horizontal";1;"Conn_01x03";;;
